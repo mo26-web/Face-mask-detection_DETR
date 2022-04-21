@@ -33,15 +33,37 @@ Available at: https://www.kaggle.com/andrewmvd/datasets
 </p>
 
 # Results
+
 <p align="center">
-<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png" align="center" height="460" width="280" ></a>
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png" align="center"></a>
 </p>
+
 <p align="center">
-<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/26.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/26.png" align="center" ></a>
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/26.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/26.png" align="center"></a>
 </p>
+
 <p align="center">
-<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/30.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/30.png" align="center" ></a>
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/30.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/30.png" align="center"></a>
 </p>
+
+<p align="center">
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/8.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/8.png" align="center"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/14.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/14.png" align="center"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/7.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/7.png" align="center"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/17.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/17.png" align="center"></a>
+</p>
+
+
+
 
 
 
