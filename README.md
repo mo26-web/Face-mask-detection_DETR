@@ -26,8 +26,10 @@ Available at: https://www.kaggle.com/andrewmvd/datasets
 
 # Split dataset
 <p align="center">
- ![](images/labeld.png)
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld.png" align="center"></a>
+</p>
+<p align="center">
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld2.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld2.png" align="center"></a>
+</p>
 
-  </p>
-![](images/labeld2.png)
 
