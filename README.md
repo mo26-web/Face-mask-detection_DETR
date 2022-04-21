@@ -13,3 +13,13 @@ We replace the full complex hand-crafted object detection pipeline with a Transf
 Given a fixed small set of learned object queries, DETR reasons about the relations of the objects and the global image context to directly output the final set of predictions in parallel. Due to this parallel nature, DETR is very fast and efficient.
 
 # Face mask dataset
+
+Masks play a crucial role in protecting the health of individuals against respiratory diseases, as is one of the few precautions available for COVID-19 in the absence of immunization. With this dataset, it is possible to create a model to detect people wearing masks, not wearing them, or wearing masks improperly.
+This dataset contains 853 images belonging to the 3 classes, as well as their bounding boxes in the PASCAL VOC format.
+The classes are:
+
+With mask;
+Without mask;
+Mask worn incorrectly.
+
+Available at: https://www.kaggle.com/andrewmvd/datasets
