@@ -23,3 +23,7 @@ Without mask;
 Mask worn incorrectly.
 
 Available at: https://www.kaggle.com/andrewmvd/datasets
+
+# Split dataset
+![](images/labeld.png)
+![](images/labeld2.png)
