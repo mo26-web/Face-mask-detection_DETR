@@ -1,0 +1,16 @@
+Epoch 010: | Train Loss: 1.21999 | Val Loss: 1.04726
+Epoch 020: | Train Loss: 1.08474 | Val Loss: 0.92122
+Epoch 030: | Train Loss: 0.99619 | Val Loss: 0.80800
+Epoch 040: | Train Loss: 0.95296 | Val Loss: 0.77792
+Epoch 050: | Train Loss: 0.94186 | Val Loss: 0.77273
+Epoch 060: | Train Loss: 1.03024 | Val Loss: 0.84254
+Epoch 070: | Train Loss: 0.89744 | Val Loss: 0.72884
+Epoch 080: | Train Loss: 0.91559 | Val Loss: 0.77023
+Epoch 090: | Train Loss: 0.89899 | Val Loss: 0.74004
+Epoch 100: | Train Loss: 0.84071 | Val Loss: 0.70060
+Epoch 110: | Train Loss: 0.90686 | Val Loss: 0.71583
+Epoch 120: | Train Loss: 0.86434 | Val Loss: 0.70702
+Epoch 130: | Train Loss: 0.91898 | Val Loss: 0.73173
+Epoch 140: | Train Loss: 0.83070 | Val Loss: 0.69013
+Epoch 150: | Train Loss: 0.80104 | Val Loss: 0.68133
+Epoch 160: | Train Loss: 0.79242 | Val Loss: 0.67889
