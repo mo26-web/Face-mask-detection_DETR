@@ -25,5 +25,8 @@ Mask worn incorrectly.
 Available at: https://www.kaggle.com/andrewmvd/datasets
 
 # Split dataset
+<p align="center">
 ![](images/labeld.png)
 ![](images/labeld2.png)
+ </p>
+
