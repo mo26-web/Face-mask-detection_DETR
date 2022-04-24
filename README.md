@@ -12,7 +12,7 @@ We replace the full complex hand-crafted object detection pipeline with a Transf
 **What it is**. Unlike traditional computer vision techniques, DETR approaches object detection as a direct set prediction problem. It consists of a set-based global loss, which forces unique predictions via bipartite matching, and a Transformer encoder-decoder architecture. 
 Given a fixed small set of learned object queries, DETR reasons about the relations of the objects and the global image context to directly output the final set of predictions in parallel. Due to this parallel nature, DETR is very fast and efficient.
 
-# Face mask dataset
+## Face mask dataset
 
 Masks play a crucial role in protecting the health of individuals against respiratory diseases, as is one of the few precautions available for COVID-19 in the absence of immunization. With this dataset, it is possible to create a model to detect people wearing masks, not wearing them, or wearing masks improperly.
 This dataset contains 853 images belonging to the 3 classes, as well as their bounding boxes in the PASCAL VOC format.
@@ -24,7 +24,7 @@ Mask worn incorrectly.
 
 Available at: https://www.kaggle.com/andrewmvd/datasets
 
-# Split dataset
+## Split dataset
 <p align="center">
 <a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld.png" align="center"></a>
 </p>
@@ -32,7 +32,7 @@ Available at: https://www.kaggle.com/andrewmvd/datasets
 <a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld2.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/labeld2.png" align="center"></a>
 </p>
 
-# Results
+## Results
 
 <p align="center">
 <a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png" align="center"></a>
